@@ -11,7 +11,7 @@
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
      <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png">
-
+ <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://seeklogo.com/images/G/github-logo-9BBCA663A4-seeklogo.com.png">
 </div>
 
 ## Contatos:
